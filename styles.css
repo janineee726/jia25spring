@@ -17,3 +17,12 @@ div.a {
   from {top: 0px;}
   to {top: 200px;}
 }
+
+.container {
+  background-color: red;
+  padding: 15px;
+}
+
+.container img {
+  mix-blend-mode: darken;
+}
