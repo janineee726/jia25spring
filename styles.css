@@ -1,3 +1,6 @@
 body {
   background-color: lightpink;
 }
+img {
+  filter: grayscale(100%);
+}
